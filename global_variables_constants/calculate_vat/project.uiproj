@@ -1,0 +1,6 @@
+{
+  "Name": "CalculateVAT",
+  "ProjectType": "Process",
+  "Description": "This process caluculate VAT on the amount purchased quantity",
+  "MainFile": "Main.xaml"
+}
