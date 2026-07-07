@@ -1,0 +1,6 @@
+{
+  "Name": "FlightReservation",
+  "ProjectType": "Process",
+  "Description": "This process simulates a flight reservation for users",
+  "MainFile": "Main.xaml"
+}
