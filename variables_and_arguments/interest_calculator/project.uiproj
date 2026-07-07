@@ -1,0 +1,6 @@
+{
+  "Name": "InterestCalculator",
+  "ProjectType": "Process",
+  "Description": "A simple interest calculator",
+  "MainFile": "Main.xaml"
+}
