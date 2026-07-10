@@ -1,0 +1,6 @@
+{
+  "Name": "GuessTheNumber",
+  "ProjectType": "Process",
+  "Description": "user has to guess a secret number between 1 and 50",
+  "MainFile": "Main.xaml"
+}
