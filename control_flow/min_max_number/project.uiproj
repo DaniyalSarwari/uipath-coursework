@@ -1,0 +1,6 @@
+{
+  "Name": "MinMaxNumber",
+  "ProjectType": "Process",
+  "Description": "Determine the minimum and maximum numbers in an array",
+  "MainFile": "Main.xaml"
+}
