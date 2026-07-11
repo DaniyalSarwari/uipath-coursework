@@ -1,0 +1,6 @@
+{
+  "Name": "ErrorCodeSeparator",
+  "ProjectType": "Process",
+  "Description": "separate a collection of error codes using Switch",
+  "MainFile": "Main.xaml"
+}
