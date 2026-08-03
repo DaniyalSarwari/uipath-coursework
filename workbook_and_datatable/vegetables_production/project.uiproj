@@ -1,0 +1,6 @@
+{
+  "Name": "VegetablesProduction",
+  "ProjectType": "Process",
+  "Description": "Practice Excercise for Workbook and DataTable activities",
+  "MainFile": "Main.xaml"
+}
