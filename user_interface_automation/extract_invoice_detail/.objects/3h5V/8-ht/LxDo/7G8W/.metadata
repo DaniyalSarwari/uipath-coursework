@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Search for Invoice",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "7G8WX3t1kUa5paCLMnkOQw",
+  "Reference": "9w5nKzAE8UCHVg9r6hzqUA/7G8WX3t1kUa5paCLMnkOQw",
+  "ParentRef": "9w5nKzAE8UCHVg9r6hzqUA/LxDot4NrvEqhzKurbXflSw",
+  "Created": "2026-08-11T15:45:34.0636839Z",
+  "Updated": "2026-08-11T15:45:34.0636839Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
