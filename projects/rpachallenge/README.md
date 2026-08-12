@@ -25,3 +25,5 @@ The challenge form dynamically changes the position of its fields after each sub
 - **Web UI Automation**
 
 >Ready To Deploy Package File ___RPAChallenge.1.0.1.nupkg___
+
+![Code Overview](./image/RPAChallenge_working_Bot_recording.gif)
