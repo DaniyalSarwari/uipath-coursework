@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Hover 'RO'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "hLyii2_1-E2rH5fYSPCEpQ",
+  "Reference": "fsCNVuxl-kaMixevChfQUQ/hLyii2_1-E2rH5fYSPCEpQ",
+  "ParentRef": "fsCNVuxl-kaMixevChfQUQ/-TD46SkeAkutcvS8VTQRVg",
+  "Created": "2026-08-12T09:22:22.7806585Z",
+  "Updated": "2026-08-12T09:22:22.7806585Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
