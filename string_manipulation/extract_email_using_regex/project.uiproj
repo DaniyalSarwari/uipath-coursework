@@ -1,0 +1,6 @@
+{
+  "Name": "ExtractMultipleEmail",
+  "ProjectType": "Process",
+  "Description": "Extract multiple email addresses from a string using Regex.",
+  "MainFile": "Main.xaml"
+}
