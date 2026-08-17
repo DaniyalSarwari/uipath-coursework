@@ -1,0 +1,6 @@
+{
+  "Name": "AddVendorDetails",
+  "ProjectType": "Process",
+  "Description": "Use-case/ problem statement - Add new vendor details ",
+  "MainFile": "Main.xaml"
+}

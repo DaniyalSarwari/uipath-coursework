@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Vendors",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Pfjh4Ji8FUCy94xMXQwZHA",
+  "Reference": "2v7o7v6F3UyoPhwQ8ckahQ/Pfjh4Ji8FUCy94xMXQwZHA",
+  "ParentRef": "2v7o7v6F3UyoPhwQ8ckahQ/o8XqI4Fge0akk-U_sqo3Dg",
+  "Created": "2026-08-17T19:00:15.9005771Z",
+  "Updated": "2026-08-17T19:00:15.9005771Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

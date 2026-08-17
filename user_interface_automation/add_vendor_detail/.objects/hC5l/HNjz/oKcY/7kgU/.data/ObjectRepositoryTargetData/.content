@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sSS5w00S0kW5CahhTZffUA" Reference="2v7o7v6F3UyoPhwQ8ckahQ/7kgUuXtm60OGvBarIPJESA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" DesignTimeRectangle="609, 634, 313, 307" ElementType="List" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl idx='4' parentid='dashmenu' tag='UL' /&gt;" Guid="ed00a78f-e7e7-44bf-a833-cf0d6482a5e3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a1c4f3de87b7e5dacbcb31ce3acbe08a.jpg" xmlns="">0DYITrwoBWE-TwwnbAW411Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

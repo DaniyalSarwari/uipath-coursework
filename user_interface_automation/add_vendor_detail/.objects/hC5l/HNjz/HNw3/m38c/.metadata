@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Click 'Save Vendor'",
+  "Type": "Element",
+  "Id": "m38cGOlQRE6ulpm7kosWwA",
+  "Reference": "2v7o7v6F3UyoPhwQ8ckahQ/m38cGOlQRE6ulpm7kosWwA",
+  "ParentRef": "2v7o7v6F3UyoPhwQ8ckahQ/HNw3-iQcIUyNW82Y_1xKYA",
+  "Created": "2026-08-17T19:13:41.1510614Z",
+  "Updated": "2026-08-17T19:13:41.1510614Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
