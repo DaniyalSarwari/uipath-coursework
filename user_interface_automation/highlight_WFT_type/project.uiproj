@@ -1,0 +1,6 @@
+{
+  "Name": "Highlight WFT type",
+  "ProjectType": "Process",
+  "Description": "highlight WFT type items on ACME ",
+  "MainFile": "Main.xaml"
+}

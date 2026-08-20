@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Work Items'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "R-Pk5A6bIkSQfp3FTrY9FA",
+  "Reference": "oVuzcSbjkUSZV7YEuSwVPA/R-Pk5A6bIkSQfp3FTrY9FA",
+  "ParentRef": "oVuzcSbjkUSZV7YEuSwVPA/WCK3oFdfUEiSSu2EQieveg",
+  "Created": "2026-08-20T18:46:47.5569131Z",
+  "Updated": "2026-08-20T18:46:47.5569131Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

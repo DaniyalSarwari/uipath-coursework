@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Work Items",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Q8fMwnqtsUOUGGT0ajVQhw",
+  "Reference": "oVuzcSbjkUSZV7YEuSwVPA/Q8fMwnqtsUOUGGT0ajVQhw",
+  "ParentRef": "oVuzcSbjkUSZV7YEuSwVPA/WCK3oFdfUEiSSu2EQieveg",
+  "Created": "2026-08-20T18:46:32.2090997Z",
+  "Updated": "2026-08-20T18:46:32.2090997Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
